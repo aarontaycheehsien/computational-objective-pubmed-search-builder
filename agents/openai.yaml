@@ -1,0 +1,4 @@
+interface:
+  display_name: "Computational Objective PubMed"
+  short_description: "Automated objective PubMed queries"
+  default_prompt: "Use $computational-objective-pubmed to generate and evaluate an automated PubMed Boolean query from known relevant PMIDs."
